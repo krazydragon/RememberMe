@@ -42,14 +42,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="ReminderAddActivity">
-		</activity>
-        <activity android:name="ReminderDetailActivity">
-		</activity>
-        <provider 
-            android:authorities="com.rbarnes.other.ReminderContentProvider"
-    		android:name="com.rbarnes.other.ReminderContentProvider">
-        </provider>
+        
     </application>
 
 </manifest>

@@ -6,5 +6,9 @@
     <string name="hello_world">Hello world!</string>
     <string name="new_button">Remember Something New</string>
     <string name="add">add</string>
+    <string name="add_picture">Add Picture</string>
+    <string name="Title">Item</string>
+    <string name="title">What do you want to remember?</string>
+    <string name="intro">Please enter what you want to remember and take a picture.</string>
 
 </resources>
